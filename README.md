@@ -92,10 +92,6 @@ npm run dev
    - Click ☰ to open sidebar
    - Click × or outside to close
 
-## 📜 License
-MIT
-
 ## ✉️ Contact
 [Durubhuru] - [durveshmore.drm@gmail.com]
 [https://github.com/Durubhuru14]
-```
